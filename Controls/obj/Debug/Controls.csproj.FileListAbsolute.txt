@@ -1,0 +1,4 @@
+E:\LuuDuLieuSinhVien\2001190567_DoGiaHuy_PTPM1\2001190567_DoGiaHuy_PTPM_BUOI2\Controls\bin\Debug\Controls.dll
+E:\LuuDuLieuSinhVien\2001190567_DoGiaHuy_PTPM1\2001190567_DoGiaHuy_PTPM_BUOI2\Controls\bin\Debug\Controls.pdb
+E:\LuuDuLieuSinhVien\2001190567_DoGiaHuy_PTPM1\2001190567_DoGiaHuy_PTPM_BUOI2\Controls\obj\Debug\Controls.dll
+E:\LuuDuLieuSinhVien\2001190567_DoGiaHuy_PTPM1\2001190567_DoGiaHuy_PTPM_BUOI2\Controls\obj\Debug\Controls.pdb

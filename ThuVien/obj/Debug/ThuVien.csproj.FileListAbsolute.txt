@@ -1,0 +1,4 @@
+E:\LuuDuLieuSinhVien\2001190567_DoGiaHuy_PTPM1\2001190567_DoGiaHuy_PTPM_BUOI2\ThuVien\bin\Debug\ThuVien.dll
+E:\LuuDuLieuSinhVien\2001190567_DoGiaHuy_PTPM1\2001190567_DoGiaHuy_PTPM_BUOI2\ThuVien\bin\Debug\ThuVien.pdb
+E:\LuuDuLieuSinhVien\2001190567_DoGiaHuy_PTPM1\2001190567_DoGiaHuy_PTPM_BUOI2\ThuVien\obj\Debug\ThuVien.dll
+E:\LuuDuLieuSinhVien\2001190567_DoGiaHuy_PTPM1\2001190567_DoGiaHuy_PTPM_BUOI2\ThuVien\obj\Debug\ThuVien.pdb
